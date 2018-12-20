@@ -96,7 +96,7 @@ contract Birr Contract is ERC20Interface, Owned, SafeMath {
     // ------------------------------------------------------------------------
     // Constructor
     // ------------------------------------------------------------------------
-    function JoshContract() public {
+    function Birr Contract() public {
         symbol = "BIRR";
         name = "Ethiopian Digital Birr";
         decimals = 18;
